@@ -1,0 +1,508 @@
+{
+    "data": [
+        {
+            "topicId": 1,
+            "label": {
+                "ja": "欧州連合",
+                "en": "European Union"
+            },
+            "referenceCount": 193
+        },
+        {
+            "topicId": 2,
+            "label": {
+                "ja": "コロナウイルス",
+                "en": "coronavirus"
+            },
+            "referenceCount": 192
+        },
+        {
+            "topicId": 3,
+            "label": {
+                "ja": "クリミア",
+                "en": "Crimea"
+            },
+            "referenceCount": 32
+        },
+        {
+            "topicId": 4,
+            "label": {
+                "ja": "クーデター",
+                "en": "Coup"
+            },
+            "referenceCount": 52
+        },
+        {
+            "topicId": 5,
+            "label": {
+                "ja": "制裁",
+                "en": "Sanctions"
+            },
+            "referenceCount": 105
+        },
+        {
+            "topicId": 6,
+            "label": {
+                "ja": "テロ",
+                "en": "Terrorism"
+            },
+            "referenceCount": 884
+        },
+        {
+            "topicId": 7,
+            "label": {
+                "ja": "主権",
+                "en": "Sovereignty"
+            },
+            "referenceCount": 240
+        },
+        {
+            "topicId": 8,
+            "label": {
+                "ja": "ウクライナ東部",
+                "en": "Eastern Ukraine"
+            },
+            "referenceCount": 35
+        },
+        {
+            "topicId": 9,
+            "label": {
+                "ja": "シリア戦争",
+                "en": "Syrian War"
+            },
+            "referenceCount": 60
+        },
+        {
+            "topicId": 10,
+            "label": {
+                "ja": "化学兵器/攻撃",
+                "en": "Chemical weapons/attack"
+            },
+            "referenceCount": 38
+        },
+        {
+            "topicId": 11,
+            "label": {
+                "ja": "選挙",
+                "en": "Elections"
+            },
+            "referenceCount": 2209
+        },
+        {
+            "topicId": 12,
+            "label": {
+                "ja": "抗議する",
+                "en": "Protest"
+            },
+            "referenceCount": 850
+        },
+        {
+            "topicId": 13,
+            "label": {
+                "ja": "第二次世界大戦",
+                "en": "WWII"
+            },
+            "referenceCount": 90
+        },
+        {
+            "topicId": 14,
+            "label": {
+                "ja": "操作された選挙/国民投票",
+                "en": "Manipulated elections/referendum"
+            },
+            "referenceCount": 77
+        },
+        {
+            "topicId": 15,
+            "label": {
+                "ja": "ウラジーミル・プーチン",
+                "en": "Vladimir Putin"
+            },
+            "referenceCount": 74
+        },
+        {
+            "topicId": 16,
+            "label": {
+                "ja": "移民の危機",
+                "en": "Migration crisis"
+            },
+            "referenceCount": 190
+        },
+        {
+            "topicId": 17,
+            "label": {
+                "ja": "ウクライナ崩壊",
+                "en": "Ukrainian disintegration"
+            },
+            "referenceCount": 1
+        },
+        {
+            "topicId": 18,
+            "label": {
+                "ja": "核問題",
+                "en": "Nuclear issues"
+            },
+            "referenceCount": 70
+        },
+        {
+            "topicId": 19,
+            "label": {
+                "ja": "帝国主義・植民地主義",
+                "en": "Imperialism/colonialism"
+            },
+            "referenceCount": 524
+        },
+        {
+            "topicId": 20,
+            "label": {
+                "ja": "経済的困難",
+                "en": "Economic difficulties"
+            },
+            "referenceCount": 661
+        },
+        {
+            "topicId": 21,
+            "label": {
+                "ja": "予防接種",
+                "en": "vaccination"
+            },
+            "referenceCount": 616
+        },
+        {
+            "topicId": 22,
+            "label": {
+                "ja": "生物兵器",
+                "en": "Biological weapons"
+            },
+            "referenceCount": 18
+        },
+        {
+            "topicId": 23,
+            "label": {
+                "ja": "ドナルド・トランプ",
+                "en": "Donald Trump"
+            },
+            "referenceCount": 1237
+        },
+        {
+            "topicId": 24,
+            "label": {
+                "ja": "選挙介入",
+                "en": "election meddling"
+            },
+            "referenceCount": 105
+        },
+        {
+            "topicId": 25,
+            "label": {
+                "ja": "メディア",
+                "en": "Media"
+            },
+            "referenceCount": 4864
+        },
+        {
+            "topicId": 26,
+            "label": {
+                "ja": "セキュリティ上の脅威",
+                "en": "security threat"
+            },
+            "referenceCount": 1010
+        },
+        {
+            "topicId": 27,
+            "label": {
+                "ja": "ジョー・バイデン",
+                "en": "Joe Biden"
+            },
+            "referenceCount": 381
+        },
+        {
+            "topicId": 28,
+            "label": {
+                "ja": "人権",
+                "en": "Human rights"
+            },
+            "referenceCount": 9930
+        },
+        {
+            "topicId": 29,
+            "label": {
+                "ja": "民主主義",
+                "en": "Democracy"
+            },
+            "referenceCount": 3955
+        },
+        {
+            "topicId": 30,
+            "label": {
+                "ja": "プロパガンダ",
+                "en": "Propaganda"
+            },
+            "referenceCount": 1182
+        },
+        {
+            "topicId": 31,
+            "label": {
+                "ja": "内戦",
+                "en": "Civil war"
+            },
+            "referenceCount": 324
+        },
+        {
+            "topicId": 32,
+            "label": {
+                "ja": "言論の自由",
+                "en": "Freedom of speech"
+            },
+            "referenceCount": 4768
+        },
+        {
+            "topicId": 33,
+            "label": {
+                "ja": "軍事演習",
+                "en": "Military exercise"
+            },
+            "referenceCount": 64
+        },
+        {
+            "topicId": 34,
+            "label": {
+                "ja": "LGBT",
+                "en": "LGBT"
+            },
+            "referenceCount": 323
+        },
+        {
+            "topicId": 35,
+            "label": {
+                "ja": "情報戦",
+                "en": "Information war"
+            },
+            "referenceCount": 8
+        },
+        {
+            "topicId": 36,
+            "label": {
+                "ja": "大量虐殺",
+                "en": "Genocide"
+            },
+            "referenceCount": 182
+        },
+        {
+            "topicId": 37,
+            "label": {
+                "ja": "スプートニクV",
+                "en": "Sputnik V"
+            },
+            "referenceCount": 1
+        },
+        {
+            "topicId": 38,
+            "label": {
+                "ja": "経済",
+                "en": "economy"
+            },
+            "referenceCount": 3025
+        },
+        {
+            "topicId": 39,
+            "label": {
+                "ja": "戦争犯罪",
+                "en": "War crimes"
+            },
+            "referenceCount": 688
+        },
+        {
+            "topicId": 40,
+            "label": {
+                "ja": "諜報機関",
+                "en": "Intelligence services"
+            },
+            "referenceCount": 76
+        },
+        {
+            "topicId": 41,
+            "label": {
+                "ja": "エネルギー",
+                "en": "Energy"
+            },
+            "referenceCount": 357
+        },
+        {
+            "topicId": 42,
+            "label": {
+                "ja": "職業",
+                "en": "Occupation"
+            },
+            "referenceCount": 1066
+        },
+        {
+            "topicId": 43,
+            "label": {
+                "ja": "国連",
+                "en": "UN"
+            },
+            "referenceCount": 330
+        },
+        {
+            "topicId": 44,
+            "label": {
+                "ja": "移民・移住",
+                "en": "migration"
+            },
+            "referenceCount": 399
+        },
+        {
+            "topicId": 45,
+            "label": {
+                "ja": "腐敗",
+                "en": "Corruption"
+            },
+            "referenceCount": 1195
+        },
+        {
+            "topicId": 46,
+            "label": {
+                "ja": "研究室",
+                "en": "laboratory"
+            },
+            "referenceCount": 97
+        },
+        {
+            "topicId": 47,
+            "label": {
+                "ja": "検閲",
+                "en": "Censorship"
+            },
+            "referenceCount": 114
+        },
+        {
+            "topicId": 48,
+            "label": {
+                "ja": "難民",
+                "en": "Refugees"
+            },
+            "referenceCount": 116
+        },
+        {
+            "topicId": 49,
+            "label": {
+                "ja": "フェイクニュース",
+                "en": "fake news"
+            },
+            "referenceCount": 2780
+        },
+        {
+            "topicId": 50,
+            "label": {
+                "ja": "詐欺",
+                "en": "scam"
+            },
+            "referenceCount": 2450
+        },
+        {
+            "topicId": 51,
+            "label": {
+                "ja": "テクノロジー",
+                "en": "technology"
+            },
+            "referenceCount": 2090
+        },
+        {
+            "topicId": 52,
+            "label": {
+                "ja": "福祉",
+                "en": "welfare"
+            },
+            "referenceCount": 6031
+        },
+        {
+            "topicId": 53,
+            "label": {
+                "ja": "交通",
+                "en": "mobility"
+            },
+            "referenceCount": 824
+        },
+        {
+            "topicId": 54,
+            "label": {
+                "ja": "観光",
+                "en": "travel"
+            },
+            "referenceCount": 718
+        },
+        {
+            "topicId": 55,
+            "label": {
+                "ja": "ファッション",
+                "en": "fashion"
+            },
+            "referenceCount": 436
+        },
+        {
+            "topicId": 56,
+            "label": {
+                "ja": "メンタルヘルス",
+                "en": "mental health"
+            },
+            "referenceCount": 1478
+        },
+        {
+            "topicId": 57,
+            "label": {
+                "ja": "アニメ",
+                "en": "anime"
+            },
+            "referenceCount": 153
+        },
+        {
+            "topicId": 58,
+            "label": {
+                "ja": "AI",
+                "en": "AI"
+            },
+            "referenceCount": 367
+        },
+        {
+            "topicId": 59,
+            "label": {
+                "ja": "気候変動",
+                "en": "climate change"
+            },
+            "referenceCount": 300
+        },
+        {
+            "topicId": 60,
+            "label": {
+                "ja": "食品",
+                "en": "food"
+            },
+            "referenceCount": 872
+        },
+        {
+            "topicId": 61,
+            "label": {
+                "ja": "税金",
+                "en": "tax"
+            },
+            "referenceCount": 280
+        },
+        {
+            "topicId": 62,
+            "label": {
+                "ja": "薬物",
+                "en": "drugs"
+            },
+            "referenceCount": 483
+        },
+        {
+            "topicId": 63,
+            "label": {
+                "ja": "米国大統領選挙",
+                "en": "US presidential election"
+            },
+            "referenceCount": 117
+        }
+    ]
+}
